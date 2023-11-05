@@ -25,6 +25,7 @@ Each deliverable can be found in the KPNG intership folder in the present reposi
 
 It was performed in Python with jupyter notebook focusing on the following:
 ![image](https://github.com/yvens94/KPMG_internship/assets/68969793/190e6e76-fef9-4f11-8214-c000d63f5b86)
+
 The results were communicated in a report in word.
 
 # Analytic plan 
