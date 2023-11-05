@@ -41,3 +41,6 @@ the cleaned data was also loaded in powerBI for the dashboard creation.
 # Dashboard in Power BI with Insights and Key Insights Presentation
 
 The Dashboard was created in PowerBI, Key insights and recomendations where presented in a meeting to get feedback for the final product
+
+![Screenshot 2023-06-01 032515](https://github.com/yvens94/KPMG_internship/assets/68969793/f8926666-28b5-4616-bfa9-9fc4342f3b56)
+
