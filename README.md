@@ -44,3 +44,4 @@ The Dashboard was created in PowerBI, Key insights and recomendations where pres
 
 ![Screenshot 2023-06-01 032515](https://github.com/yvens94/KPMG_internship/assets/68969793/f8926666-28b5-4616-bfa9-9fc4342f3b56)
 
+![image](https://github.com/yvens94/KPMG_internship/assets/68969793/5398c866-4f14-47c3-b280-242b4568aeac)
