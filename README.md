@@ -11,12 +11,14 @@ a- provided recommendations as to their data collection process based on the qua
 b- Explore the data and provide insights about what dempgraphic group should they be focusing on for their marketing program in the Australian market
 
 
-Each deliverable can be found in the present folder
+Each deliverable can be found in the KPNG intership folder in the present repository
+
 
 
 Data Quality Assessment
 It was performed in Python with jupyter notebook focusing on the following:
 ![image](https://github.com/yvens94/KPMG_internship/assets/68969793/190e6e76-fef9-4f11-8214-c000d63f5b86)
+The results were communicated in a report in word.
 
 Analytic plan 
 Based on the initial requirements, an analytic plan was presented to make sure that the work that will be done is
